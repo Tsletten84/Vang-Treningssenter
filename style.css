@@ -2,13 +2,13 @@
 
 #header {
   margin-top: 50px;
-  width: 160px;
+  width: 360px;
   height: 160px;
   background-size:contain;
   background-repeat: no-repeat;
       /**  LOGO INN HER!   **/
       /**  LOGO INN HER!   **/
-  background-image: url(logo.png);
+  background-image: url(logo.jpg);
       /**  LOGO INN HER!   **/
       /**  LOGO INN HER!   **/
 }
